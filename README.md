@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sidhdharth zinzala
-- 👀 I’m interested in data science.
+- 👀 i have a big interest in data science.
 - 🌱 I’m currently learning machine learning and data science concepts.
 - 💞️ I’m looking to collaborate on any data analysis project.
 
