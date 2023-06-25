@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sidhdharth zinzala
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning backend development(php).
-- 💞️ I’m looking to collaborate on any backend project.
+- 👀 I’m interested in data science.
+- 🌱 I’m currently learning machine learning and data science concepts.
+- 💞️ I’m looking to collaborate on any data analysis project.
 
 <!---
 Sids9726/Sids9726 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
